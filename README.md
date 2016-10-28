@@ -15,7 +15,7 @@ Algoritmos genéticos diferem dos algoritmos tradicionais de otimização em bas
 
 ![Imgur](http://i.imgur.com/qHjOUm0.jpg)
 
-<h2> Projeto feito utilizando a ide Qt Creator - 27/10/2016 </h2>
+<h2> Projeto feito utilizando Qt Creator versão 5.7.0 - 27/10/2016 </h2>
 
      GeneticAlgorithm-Words foi feito com base no algoritmo de Marcos Castro
      https://gist.github.com/marcoscastro/ffbcb9c672dc5413df83
