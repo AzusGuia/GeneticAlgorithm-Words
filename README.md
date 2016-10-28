@@ -13,6 +13,6 @@ Algoritmos genéticos diferem dos algoritmos tradicionais de otimização em bas
 * Não necessitam de nenhum conhecimento derivado do problema, apenas de uma forma de avaliação do resultado;
 * Usam transições probabilísticas e não regras determinísticas.
 
-![alt tag](http://imgur.com/qHjOUm0)
+![Imgur](http://i.imgur.com/qHjOUm0.jpg)
 
 <h2> Projeto feito utilizando a ide qt creator, 27/10/2016 </h2>
