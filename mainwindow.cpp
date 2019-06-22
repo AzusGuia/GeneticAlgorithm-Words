@@ -99,11 +99,11 @@ void MainWindow::on_play_clicked()
         // Exibe resultados no display
         QString saida;
         QCoreApplication::processEvents();
-        saida += "   Geracao: " + QString::number(i + 1);
-        saida += "\n   Melhor: ";
+        saida += "   Generation: " + QString::number(i + 1);
+        saida += "\n   Best: ";
         for(int j = 0; j < ag.getGen(); j++)
         saida.append(QString(ag.population[bestIndex][j]) + " ");
-        saida += "\n   Pontuacao: " + QString::number(bestScores);
+        saida += "\n   Score: " + QString::number(bestScores);
         saida += "\n";
         ui->Log->append(saida);
 
