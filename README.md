@@ -2,7 +2,9 @@
 
 Simple implementation using genetic algorithm applied to characters.
 
-![enter image description here](https://i.imgur.com/0w9WTBK.gif)
+<p align="center">
+  <img src="https://i.imgur.com/0w9WTBK.gif">
+</p>
 
 ## Usage
 
